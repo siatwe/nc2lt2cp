@@ -1,0 +1,3 @@
+* Normcap 2 LibreTranslate 2 Clipboard
+** TODO
+- [ ] Write documentions
